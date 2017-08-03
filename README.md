@@ -10,5 +10,5 @@ List of new introduced tech
 Jade - now known as Pub
 Stylus and Sass a CSS framework
 
-![Screenshot](url)
+![Screenshot](https://github.com/sotoxp/node-express-basic-site/blob/master/images/Screenshot%20from%202017-08-02%2013-23-57.png)
 
